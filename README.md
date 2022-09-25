@@ -24,5 +24,4 @@ Skills: HTML / CSS / Bootstrap / Javascript / React.js / Node.js / Express.js / 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahbub-web-hero-1997)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahbub-web-hero-1997)  
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahbub-web-hero-1997) 
