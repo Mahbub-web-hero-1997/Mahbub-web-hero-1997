@@ -6,7 +6,6 @@ I'm a Front-End Web developer who is passionate about making error free website 
 
 Skills: HTML / CSS / Bootstrap / Javascript / React.js / Node.js / Express.js / MongoDB / Firebase and many others.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on gitHub 
 - 💬 Ask me about Web Development 
