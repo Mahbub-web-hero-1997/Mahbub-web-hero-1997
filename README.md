@@ -7,8 +7,11 @@ Hi! I’m Mahbub Alam, a **MERN Stack** Developer passionate about building seam
 I obsess over clean code, optimized performance, and intuitive UI—whether I’m crafting a pixel-perfect layout with Tailwind/Bootstrap or designing a secure API with JWT and Firebase Auth. My projects range from SSR-powered Next.js apps to real-time Firebase solutions, always prioritizing user-centric design.   
 - **Core Skills:**
     - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Redux, Tailwind, Bootstrap
-    - **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs
-    - **Tools:** Firebase, Git, Responsive Design
+    - **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
+    - **Authentication:** Custom Authentication, Firebase Authentication
+    - **Media Hosting:** Cloudinary, ImageBB
+    - **Tools:** Firebase, Git, GitHub, Responsive Design
+    - **Deployment:** Vercel, Netlify, Firebase
 
 - 🌱 I’m currently Redux and Next.js 
 - 💬 Ask me about Web Development 
