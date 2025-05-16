@@ -1,29 +1,56 @@
-### Hi there 👋, I'm Mahbub Alam
-#### I'm MERN Stack Web Developer
-![I'm Front-end Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEh7_6G36evHg/profile-displaybackgroundimage-shrink_350_1400/B56ZbXwcG8G4Ac-/0/1747376524292?e=1752710400&v=beta&t=mTq9ZbCpSBfzVNRnERLntujLlQ12-FDAXZNoBY99uLA)
 
-Hi! I’m Mahbub Alam, a **MERN Stack** Developer passionate about building seamless, scalable web experiences. My toolkit includes React and Next.js for dynamic frontends, paired with Node.js, Express, and MongoDB for powerful backends.
+<h1 align="center">Hi 👋, I'm Mahbub Alam</h1>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
-I obsess over clean code, optimized performance, and intuitive UI—whether I’m crafting a pixel-perfect layout with Tailwind/Bootstrap or designing a secure API with JWT and Firebase Auth. My projects range from SSR-powered Next.js apps to real-time Firebase solutions, always prioritizing user-centric design.   
-- **Core Skills:**
-    - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Redux, Tailwind, Bootstrap
-    - **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
-    - **Authentication:** Custom Authentication, Firebase Authentication
-    - **Media Hosting:** Cloudinary, ImageBB
-    - **Tools:** Git, GitHub, Responsive Design
-    - **Deployment:** Vercel, Netlify, Firebase
-      
-💡 -**Let’s innovate together! Available for freelance projects or tech discussions.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=27AE60&width=435&lines=Open+to+work;MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js" alt="Typing SVG" />
+</p>
 
-📞 **01644196242 (WhatsApp) | ✉️ mahbub.web.hero@gmail.com**
+---
 
-- 🌱 Now I'm learning Next.js and Redux
-- 💬 Ask me about Web Development 
+- 💼 Currently building: **The Daily Lens** – a full-featured news app  
+- 🧰 Tech: `MongoDB` • `Express` • `React` • `Node.js`  
+- 🖼️ Image Hosting: `Cloudinary` | File handling with `Multer`
+- 🔐 Auth: `JWT`, `bcrypt`, and a **custom login system**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub-web-hero-1997)](https://github.com/anuraghazra/github-readme-stats)
+### 📱 Contact Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbub-web-hero-1997&show_icons=true&count_private=true)  
+- 📞 WhatsApp: `01644196242`
+- 📞 Phone: `01827480403`
+- 📧 Email: [mahbub.web.hero@gmail.com](mailto:mahbub.web.hero@gmail.com)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahbub-web-hero-1997) 
+---
+
+### 🚀 Live Projects
+
+- 🌐 [The Daily Lens (Frontend)](https://cosmic-frangipane-73525a.netlify.app/)
+- 🔗 [The Daily Lens (Backend)](https://daily-lens-server.vercel.app/)
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 🌙 Theme-Friendly Tip
+
+- ✅ Uses **transparent icons** and avoids hardcoded colors.
+- ✅ Tested to look great on **GitHub dark mode** and **light mode**.
+
+
+---
+
+### 🌙 Dark Theme Friendly Design
+
+> ✅ Your profile README is styled with theme-aware assets and markdown that look great in both **light** and **dark** modes.  
+> 🖼️ Make sure images and badges you add are either transparent or tested on both themes.
+
+
+
+
