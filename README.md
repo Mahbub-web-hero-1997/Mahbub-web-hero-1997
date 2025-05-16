@@ -10,7 +10,7 @@ I obsess over clean code, optimized performance, and intuitive UI—whether I’
     - **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
     - **Authentication:** Custom Authentication, Firebase Authentication
     - **Media Hosting:** Cloudinary, ImageBB
-    - **Tools:** Firebase, Git, GitHub, Responsive Design
+    - **Tools:** Git, GitHub, Responsive Design
     - **Deployment:** Vercel, Netlify, Firebase
 
 - 🌱 I’m currently Redux and Next.js 
