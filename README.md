@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="DIRECT_IMAGE_URL_HERE" alt="Mahbub Alam LinkedIn Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Mahbub Alam</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
