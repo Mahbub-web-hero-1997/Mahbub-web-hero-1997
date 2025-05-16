@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEh7_6G36evHg/profile-displaybackgroundimage-shrink_350_1400/B56ZbXwcG8G4Ac-/0/1747376524292?e=1752710400&v=beta&t=mTq9ZbCpSBfzVNRnERLntujLlQ12-FDAXZNoBY99uLA" alt="" />
-</p>
 <h1 align="center">Hi 👋, I'm Mahbub Alam</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
@@ -37,10 +34,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&color=61dafb&width=400&lines=My+Tech+Stack" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 
