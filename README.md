@@ -3,8 +3,9 @@
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=27AE60&width=435&lines=Open+to+work;MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=27AE60&width=600&lines=Open+to+work;MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -37,19 +38,6 @@
 </p>
 
 ---
-
-### 🌙 Theme-Friendly Tip
-
-- ✅ Uses **transparent icons** and avoids hardcoded colors.
-- ✅ Tested to look great on **GitHub dark mode** and **light mode**.
-
-
----
-
-### 🌙 Dark Theme Friendly Design
-
-> ✅ Your profile README is styled with theme-aware assets and markdown that look great in both **light** and **dark** modes.  
-> 🖼️ Make sure images and badges you add are either transparent or tested on both themes.
 
 
 
