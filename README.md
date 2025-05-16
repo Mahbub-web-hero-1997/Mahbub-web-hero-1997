@@ -1,21 +1,19 @@
 ### Hi there 👋, I'm Mahbub Alam
-#### I'm Front-end Web Developer
+#### I'm MERN Stack Web Developer
 ![I'm Front-end Web Developer](https://media.licdn.com/dms/image/v2/C4E16AQF9EdiNeOLjgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1654667545700?e=1752710400&v=beta&t=Bbp1ehB2ohi0UwAXWf7-fjZl-qRmUDiy8B8moSKl3xI)
 
-I'm a Front-End Web developer who is passionate about making error free website with 100% client satisfaction. I have a fassion for learning and sharing my knowledge with others as publicly as possible. I have to solved real-world problems. I am strategic, goal-oriented and always word with an end-goal in mind. I pride myself on dowing quality work and mantain excellent communication.   
+Hi! I’m Mahbub Alam, a MERN + Next.js Full-Stack Developer passionate about building seamless, scalable web experiences. My toolkit includes React and Next.js for dynamic frontends, paired with Node.js, Express, and MongoDB for powerful backends.
 
-Skills: HTML / CSS / Bootstrap / Javascript / React.js / Node.js / Express.js / MongoDB / Firebase and many others.
+I obsess over clean code, optimized performance, and intuitive UI—whether I’m crafting a pixel-perfect layout with Tailwind/Bootstrap or designing a secure API with JWT and Firebase Auth. My projects range from SSR-powered Next.js apps to real-time Firebase solutions, always prioritizing user-centric design.   
+Core Skills:
+◾ Frontend: HTML5, CSS3, JavaScript (ES6+), React, Next.js, Redux, Tailwind, Bootstrap
+◾ Backend: Node.js, Express.js, MongoDB, Mongoose, REST APIs
+◾ Tools: Firebase, Git, Responsive Design
 
-- 🌱 I’m currently learning Node.js 
-- 👯 I’m looking to collaborate on gitHub 
+- 🌱 I’m currently Redux and Next.js 
 - 💬 Ask me about Web Development 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahbub-web-hero-1997)  
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mahbub-web-hero-1997)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub-web-hero-1997)](https://github.com/anuraghazra/github-readme-stats)
 
