@@ -2,13 +2,13 @@
 #### I'm MERN Stack Web Developer
 ![I'm Front-end Web Developer](https://media.licdn.com/dms/image/v2/C4E16AQF9EdiNeOLjgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1654667545700?e=1752710400&v=beta&t=Bbp1ehB2ohi0UwAXWf7-fjZl-qRmUDiy8B8moSKl3xI)
 
-Hi! I’m Mahbub Alam, a MERN + Next.js Full-Stack Developer passionate about building seamless, scalable web experiences. My toolkit includes React and Next.js for dynamic frontends, paired with Node.js, Express, and MongoDB for powerful backends.
+Hi! I’m Mahbub Alam, a **MERN + Next.js Full-Stack** Developer passionate about building seamless, scalable web experiences. My toolkit includes React and Next.js for dynamic frontends, paired with Node.js, Express, and MongoDB for powerful backends.
 
 I obsess over clean code, optimized performance, and intuitive UI—whether I’m crafting a pixel-perfect layout with Tailwind/Bootstrap or designing a secure API with JWT and Firebase Auth. My projects range from SSR-powered Next.js apps to real-time Firebase solutions, always prioritizing user-centric design.   
-- Core Skills:
-- Frontend: HTML5, CSS3, JavaScript (ES6+), React, Next.js, Redux, Tailwind, Bootstrap
-- Backend: Node.js, Express.js, MongoDB, Mongoose, REST APIs
-- Tools: Firebase, Git, Responsive Design
+- **Core Skills:**
+    - Frontend: HTML5, CSS3, JavaScript (ES6+), React, Next.js, Redux, Tailwind, Bootstrap
+    - Backend: Node.js, Express.js, MongoDB, Mongoose, REST APIs
+    - Tools: Firebase, Git, Responsive Design
 
 - 🌱 I’m currently Redux and Next.js 
 - 💬 Ask me about Web Development 
