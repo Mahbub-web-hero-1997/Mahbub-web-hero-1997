@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[DIRECT_IMAGE_URL_HERE](https://www.linkedin.com/in/mdmahbubalam1997/overlay/background-image/)" alt="Mahbub Alam LinkedIn Banner" />
+  <img src="https://www.linkedin.com/in/mdmahbubalam1997/overlay/background-image/" alt="Mahbub Alam LinkedIn Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Mahbub Alam</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
