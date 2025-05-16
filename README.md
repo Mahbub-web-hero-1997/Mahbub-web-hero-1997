@@ -26,8 +26,8 @@
 
 ### 🚀 Live Projects
 
-- 🌐 [The Daily Lens (Frontend)](https://cosmic-frangipane-73525a.netlify.app/)
-- 🔗 [The Daily Lens (Backend)](https://daily-lens-server.vercel.app/)
+- 🌐 [The Daily Lens (Frontend)](https://github.com/Mahbub-web-hero-1997/daily_lens_client)
+- 🔗 [The Daily Lens (Backend)](https://github.com/Mahbub-web-hero-1997/Daily_Lens)
 
 ---
 
