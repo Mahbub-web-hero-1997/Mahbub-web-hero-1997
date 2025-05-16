@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mahbub Alam
 #### I'm MERN Stack Web Developer
-![I'm Front-end Web Developer](https://media.licdn.com/dms/image/v2/C4E16AQF9EdiNeOLjgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1654667545700?e=1752710400&v=beta&t=Bbp1ehB2ohi0UwAXWf7-fjZl-qRmUDiy8B8moSKl3xI)
+![I'm Front-end Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEh7_6G36evHg/profile-displaybackgroundimage-shrink_350_1400/B56ZbXwcG8G4Ac-/0/1747376524292?e=1752710400&v=beta&t=mTq9ZbCpSBfzVNRnERLntujLlQ12-FDAXZNoBY99uLA)
 
 Hi! I’m Mahbub Alam, a **MERN Stack** Developer passionate about building seamless, scalable web experiences. My toolkit includes React and Next.js for dynamic frontends, paired with Node.js, Express, and MongoDB for powerful backends.
 
