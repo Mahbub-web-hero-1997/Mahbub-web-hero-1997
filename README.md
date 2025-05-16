@@ -12,6 +12,9 @@ I obsess over clean code, optimized performance, and intuitive UI—whether I’
     - **Media Hosting:** Cloudinary, ImageBB
     - **Tools:** Git, GitHub, Responsive Design
     - **Deployment:** Vercel, Netlify, Firebase
+💡 -**Let’s innovate together! Available for freelance projects or tech discussions.**
+
+-**📞 01644196242 (WhatsApp) | ✉️ mahbub.web.hero@gmail.com**
 
 - 🌱 I’m currently Redux and Next.js 
 - 💬 Ask me about Web Development 
