@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.linkedin.com/in/mdmahbubalam1997/overlay/background-image/" alt="Mahbub Alam LinkedIn Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEh7_6G36evHg/profile-displaybackgroundimage-shrink_350_1400/B56ZbXwcG8G4Ac-/0/1747376524292?e=1752710400&v=beta&t=mTq9ZbCpSBfzVNRnERLntujLlQ12-FDAXZNoBY99uLA" alt="" />
 </p>
 <h1 align="center">Hi 👋, I'm Mahbub Alam</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
