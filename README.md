@@ -37,8 +37,12 @@
 ### 🛠 Tech Stack
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&color=61dafb&width=400&lines=My+Tech+Stack" alt="Typing SVG" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
+
 
 
 ---
